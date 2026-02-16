@@ -1,0 +1,28 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/kat/install/wshop_nodes/lib/python3.10/site-packages",
+        "/home/kat/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/kat/install/drone_sensing/lib/python3.10/site-packages",
+        "/home/kat/install/drone_control/lib/python3.10/site-packages",
+        "/home/kat/drone/install/px4_ros_com/local/lib/python3.10/dist-packages",
+        "/home/kat/drone/install/drone_sensing/lib/python3.10/site-packages",
+        "/home/kat/drone/install/drone_control/lib/python3.10/site-packages",
+        "/home/kat/drone/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/kat/drone/install/drone_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/kat/install/wshop_nodes/lib/python3.10/site-packages",
+        "/home/kat/install/my_robot_controller/lib/python3.10/site-packages",
+        "/home/kat/install/drone_sensing/lib/python3.10/site-packages",
+        "/home/kat/install/drone_control/lib/python3.10/site-packages",
+        "/home/kat/drone/install/px4_ros_com/local/lib/python3.10/dist-packages",
+        "/home/kat/drone/install/drone_sensing/lib/python3.10/site-packages",
+        "/home/kat/drone/install/drone_control/lib/python3.10/site-packages",
+        "/home/kat/drone/install/px4_msgs/local/lib/python3.10/dist-packages",
+        "/home/kat/drone/install/drone_msgs/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}

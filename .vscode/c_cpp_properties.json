@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/kat/drone/install/px4_ros_com/include/**",
+        "/home/kat/drone/install/px4_msgs/include/**",
+        "/home/kat/drone/install/drone_msgs/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/kat/Micro-XRCE-DDS-Agent/include/**",
+        "/home/kat/drone/src/px4_ros_com/include/**",
+        "/home/kat/src/v4l2_camera/include/**",
+        "/home/kat/takeaway_bwsi_ws/src/px4_ros_com/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
