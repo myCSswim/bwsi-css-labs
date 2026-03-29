@@ -9,7 +9,7 @@ This is to stimulate a change made on a robot: robot_speed =8 #m/s
 def main():
     print("Hello World!")
 
-    name = "Summing C." # TODO: Insert your name between the double quotes
+    name = "Summings C." # TODO: Insert your name between the double quotes
 
     print(f"{name}, Welcome to the CSS course!")
     print("My name is Summing Chan. I'm originally from Hong Kong but now live in Belmont, Massachusetts. I'm a swimer in my high school team and I love swimming backstroke. My favorit subject is physics and I hope to learn a lot in this course.")
